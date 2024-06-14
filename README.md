@@ -1,5 +1,6 @@
 # Sentiment_Analysis
 This repository contains Python code for sentiment analysis using an LSTM (Long Short-Term Memory) neural network. The project involves training a model to classify the sentiment of airline tweets as positive, neutral, or negative.
+
 Introductin to LSTM's
 LSTM (Long Short-Term Memory) networks are particularly effective for sentiment analysis due to several key reasons:
 
