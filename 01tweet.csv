@@ -1,0 +1,2 @@
+tweet_id,airline_sentiment_confidence,negativereason,negativereason_confidence,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,text,tweet_coord,tweet_created,tweet_location,user_timezone
+570300616901320704,0.6745,,0,Virgin America,,cjmcginnis,,0,"@VirginAmerica yes, nearly every time I fly VX this “ear worm” won’t go away :)",,2/24/2015 11:13,San Francisco CA,Pacific Time (US & Canada)
