@@ -112,3 +112,10 @@ This code performs end-to-end tasks for sentiment analysis:
 - Predicts sentiments on new tweets and assigns ratings based on clustering.
 - Visualizes the elbow method to determine the optimal number of clusters.
 
+To Run This Code:
+
+- Download the given datasets
+- Run in any IDE with important libraries installed
+
+### NOTE:
+This project is free from copyright. Anyone can use this to enhance the training, testing, and accuracy of model. This model definitely needs enhancements. It is just a general approach provided in code form to this sentiment analysis subject.
